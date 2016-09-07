@@ -1,0 +1,4 @@
+<resources>
+    <string name="edit_message">inserire nome</string>
+    <string name="button_send">spedire info</string>
+</resources>
